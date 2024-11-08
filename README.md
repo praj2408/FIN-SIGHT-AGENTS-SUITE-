@@ -1,10 +1,10 @@
-# FinAgents Suite🕵🏻
+# FinSight Agents Suite🕵🏻
 
-Welcome to FinAgents Suite, your ultimate financial decision-making platform. Our suite of advanced tools helps you derive strategic Investment plans, assess Credit Risk, and forecast Earnings Per Share (EPS) with confidence. Our sophisticated multi-agent system leverages advanced machine learning algorithms and large language models (LLMs) to provide precise and actionable financial insights.
+Welcome to FinSight Agents Suite, your ultimate financial decision-making platform. Our suite of advanced tools helps you derive strategic Investment plans, assess Credit Risk, and forecast Earnings Per Share (EPS) with confidence. Our sophisticated multi-agent system leverages advanced machine learning algorithms and large language models (LLMs) to provide precise and actionable financial insights.
 
 ## Overview
 
-The FinAgents Suite is designed to provide comprehensive Financial Analysis and decision-making capabilities through various modules:![FinAgents_Suite](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/e442eeb3-a20e-4c2d-ae29-250cb0d1d062)
+The FinSight Agents Suite is designed to provide comprehensive Financial Analysis and decision-making capabilities through various modules:![FinSight Agents_Suite](https://github.com/praj2408/FinSight Agents-Suite/assets/132877393/e442eeb3-a20e-4c2d-ae29-250cb0d1d062)
 
 
 
@@ -22,14 +22,14 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 
 ## Features
 
-- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.![App_interface](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/2c27e7f5-5165-4796-a223-420ab2f11b9c)
+- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.![App_interface](https://github.com/praj2408/FinSight Agents-Suite/assets/132877393/2c27e7f5-5165-4796-a223-420ab2f11b9c)
 
-  - **FinAgents Conversations:** these are the interactions where multiple autonomous agents (which could be software agents, robots, or virtual characters) communicate and collaborate to achieve specific goals.![FinAgents_conversation](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/b25d215d-b75d-4f3b-875a-c3fb56244307)
+  - **FinSight Agents Conversations:** these are the interactions where multiple autonomous agents (which could be software agents, robots, or virtual characters) communicate and collaborate to achieve specific goals.![FinSight Agents_conversation](https://github.com/praj2408/FinSight Agents-Suite/assets/132877393/b25d215d-b75d-4f3b-875a-c3fb56244307)
 
 
-- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.![Credit_Risk](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/51484eee-19d4-45c1-8a6a-8ca1a8d69715)
+- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.![Credit_Risk](https://github.com/praj2408/FinSight Agents-Suite/assets/132877393/51484eee-19d4-45c1-8a6a-8ca1a8d69715)
 
-- **EPS Forecasting:** Predict EPS for banks using financial indicators and obtain an analysis and synthesis of the data.![EPS_Forecaster](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/0aefcfd5-19ad-46ec-8517-05735037b5c8)
+- **EPS Forecasting:** Predict EPS for banks using financial indicators and obtain an analysis and synthesis of the data.![EPS_Forecaster](https://github.com/praj2408/FinSight Agents-Suite/assets/132877393/0aefcfd5-19ad-46ec-8517-05735037b5c8)
 
 
 
@@ -45,8 +45,8 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/SaurabhBadole/FinAgents-Suite.git
-    cd FinAgents-Suite
+    git clone https://github.com/praj2408/FinSight Agents-Suite.git
+    cd FinSight Agents-Suite
     ```
 
 2. Create and activate a virtual environment:
@@ -71,7 +71,7 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 
 Run the main file to start the application:
 ```sh
-streamlit run FinAgents_Suite.py
+streamlit run FinSight Agents_Suite.py
 ```
 
 
@@ -80,7 +80,7 @@ streamlit run FinAgents_Suite.py
 
 Here's an overview of the project's structure:
 ```
-FinAgents_Suite/
+FinSight Agents_Suite/
 ├── eps_app/
 │   ├── __pycache__/
 │   ├── __init__.py          # Initializes the EPS application module.
@@ -101,7 +101,7 @@ FinAgents_Suite/
 ├── venv/                    # Virtual environment for the project.
 ├── .env                     # Environment variables for API keys and other configurations.
 ├── agents.py                # Defines various agents like financial analyst, research analyst, and investment advisor. These agents use tools like ScrapingAnt, Serper API, and Yahoo Finance for data analysis.
-├── FinAgents_Suite.py       # Main Streamlit interface to access the whole app.
+├── FinSight Agents_Suite.py       # Main Streamlit interface to access the whole app.
 ├── README.md                # Project's README file.
 ├── requirements.txt         # Lists all the dependencies required for the project.
 └── tasks.py                 # Contains predefined tasks for stock analysis, financial analysis, filings analysis, and investment recommendations. Each task leverages the multi-agent system for comprehensive analysis.
@@ -140,7 +140,7 @@ FinAgents_Suite/
     - Implements internet search functionalities using the Serper API. It includes tools for general web searches and news-specific searches, returning relevant results for user queries.
 
 - **venv/**:
-  - Virtual environment for the project, containing all the necessary dependencies and packages required for running the FinAgents Suite application.
+  - Virtual environment for the project, containing all the necessary dependencies and packages required for running the FinSight Agents Suite application.
 
 - **.env**:
   - Stores API keys and other environment variables. This file ensures that sensitive information, such as API credentials, is securely managed and not hard-coded within the application code.
@@ -148,8 +148,8 @@ FinAgents_Suite/
 - **agents.py**:
   - Defines various agents like the financial analyst, research analyst, and investment advisor. These agents use tools like ScrapingAnt, Serper API, and Yahoo Finance for data analysis and generating comprehensive investment recommendations.
 
-- **FinAgents_Suite.py**:
-  - Main Streamlit interface to access the whole app. This file sets up the overall layout, integrates different modules, and provides a seamless user experience for interacting with the FinAgents Suite tools.
+- **FinSight Agents_Suite.py**:
+  - Main Streamlit interface to access the whole app. This file sets up the overall layout, integrates different modules, and provides a seamless user experience for interacting with the FinSight Agents Suite tools.
 
 - **README.md**:
   - Project's README file. It contains a detailed introduction, overview of each tool, features, getting started instructions, project structure, detailed descriptions of files, contributing guidelines, license information, acknowledgements, and contact details.
