@@ -22,12 +22,12 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 
 ## Features
 
-- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.![App_interface](https://github.com/SaurabhBadole/FinSight Agents-Suite/assets/132877393/2c27e7f5-5165-4796-a223-420ab2f11b9c)
+- **MultiAgent Finance Consultant:** Strategic Investment planning with a team of multi-agents combining the expertise of a Research Analyst, Financial Analyst, and Investment Advisor.![App_interface](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/2c27e7f5-5165-4796-a223-420ab2f11b9c)
 
   - **FinAgents Conversations:** these are the interactions where multiple autonomous agents (which could be software agents, robots, or virtual characters) communicate and collaborate to achieve specific goals.![FinAgents_conversation](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/b25d215d-b75d-4f3b-875a-c3fb56244307)
 
 
-- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.![Credit_Risk](https://github.com/SaurabhBadole/FinSight Agents-Suite/assets/132877393/51484eee-19d4-45c1-8a6a-8ca1a8d69715)
+- **AI-Driven Predictive Credit Risk Engine:** Assess and manage credit risk with advanced ML algorithms.![Credit_Risk](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/51484eee-19d4-45c1-8a6a-8ca1a8d69715)
 
 - **EPS Forecasting:** Predict EPS for banks using financial indicators and obtain an analysis and synthesis of the data.![EPS_Forecaster](https://github.com/SaurabhBadole/FinAgents-Suite/assets/132877393/0aefcfd5-19ad-46ec-8517-05735037b5c8)
 
@@ -45,7 +45,7 @@ Predict the Earnings Per Share (EPS) for banks using key financial indicators. T
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/SaurabhBadole/FinAgents-Suite.git
+    git clone https://github.com/praj2408/FinAgents-Suite.git
     cd FinAgents-Suite
     ```
 
